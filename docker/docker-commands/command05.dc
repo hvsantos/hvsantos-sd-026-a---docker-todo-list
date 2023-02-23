@@ -1,2 +1,1 @@
-docker container kill 01container
-docker container prune -f
+docker container rm -f 01container
