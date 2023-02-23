@@ -1,0 +1,2 @@
+docker container kill 01container
+docker container prune -f
